@@ -4,3 +4,10 @@ V4.4.2:
 -Dropped print speed to 70mm/s all layers
 
 - Changed Top Layers to 1, and bottom layers to 2 (request to seal off top of comfort plate)
+
+V4.4.2 (espanol):
+-Temperatura modificada para todas las capas, a 230C para poder derretir plastico de forma mas rapida para poder compensar por imprimir a velocidades mas rapidas.
+
+-Velocidad (Print Speed) disminuida a 70mm/s, todas las capas
+
+-Se cambio (Top Layers) a 1, y (Bottom Layers) a 2, para sellar el cintillo.
