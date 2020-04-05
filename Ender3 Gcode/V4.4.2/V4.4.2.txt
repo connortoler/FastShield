@@ -1,0 +1,6 @@
+V4.4.2:
+-Printing Temperature (all layers) bumped up to 230C to keep up with printing speed and prevent extruder motor from skipping steps.
+
+-Dropped print speed to 70mm/s all layers
+
+- Changed Top Layers to 1, and bottom layers to 2 (request to seal off top of comfort plate)
