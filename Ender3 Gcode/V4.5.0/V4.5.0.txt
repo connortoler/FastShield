@@ -1,0 +1,5 @@
+V4.5.0:
+EN:
+-Changed initial layer height to 0.3 from 0.2 to compensate for poorly calibrated printer.
+ES:
+-Cambio de (initial layer height) a 0.3 (nuevo) vs 0.2 (viejo)
